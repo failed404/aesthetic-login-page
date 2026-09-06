@@ -24,7 +24,7 @@ Sebuah tampilan halaman *login* interaktif dengan desain aesthetic bertema **pin
 ## 🚀 Live Demo
 
 Anda dapat mencoba tampilan dan fungsi dari project ini secara langsung melalui link berikut:  
-👉 **[Lihat Live Demo di GitHub Pages](https://USERNAME.github.io/NAMA-REPOSITORY/)**
+👉 **[Lihat Live Demo di GitHub Pages](https://failed404.github.io/aesthetic-login-page/)**
 
 > *(Catatan: Ganti `USERNAME` dan `NAMA-REPOSITORY` sesuai dengan akun GitHub Anda)*
 
